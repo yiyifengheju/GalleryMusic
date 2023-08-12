@@ -1,0 +1,1 @@
+{name: "Solitude",artist: "坂本龍一",cover: "https://mastermao.gitee.io/gallerymusic/00cover/Ryuichi Sakamoto Playing the Piano 2013 in Yokohama.jpg",favorited: false,segments: [],currentSegmentIndex: 0,},

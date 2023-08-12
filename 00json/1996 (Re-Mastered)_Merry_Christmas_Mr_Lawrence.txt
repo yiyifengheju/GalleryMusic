@@ -1,0 +1,1 @@
+{name: "Merry_Christmas_Mr_Lawrence",artist: "坂本龍一",cover: "https://mastermao.gitee.io/gallerymusic/00cover/1996 (Re-Mastered).jpg",favorited: false,segments: [],currentSegmentIndex: 0,},

@@ -1,0 +1,1 @@
+{name: "Happyend",artist: "坂本龍一",cover: "https://mastermao.gitee.io/gallerymusic/00cover/ 05.jpg",favorited: false,segments: [],currentSegmentIndex: 0,},
